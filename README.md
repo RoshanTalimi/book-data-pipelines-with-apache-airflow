@@ -12,3 +12,8 @@ To install the necessary packages:
 ```
 pip install -r requirements.txt 
 ```
+
+chapter 2:
+```
+curl -L "https://ll.thespacedevs.com/2.0.0/launch/upcoming"
+```

@@ -1,4 +1,7 @@
-# Data pipelines with apache airflow
+# Data pipelines with apache airflow 
+Edition: First    
+Author:  Bas Harenslak % Julian de Ruiter     
+Publisher: Manning    
 
 We're using python 3.10 - Install it if you don't have it already!
 
